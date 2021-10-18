@@ -1,5 +1,5 @@
 print("Type a number and this application will find the square root.")
-print("This application was made by Sameer Achhab.")
+print("This application/script is made by Sameer Achhab.")
 import math
 while True:
  num=float(input())
